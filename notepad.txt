@@ -1,0 +1,32 @@
+***** Login Page Done ******
+
+Folder Name:- Login.html
+Linked CSS:- style.css 
+
+///////////////////////////////////////////////////
+
+***** Sign Up Page Done ******
+
+Folder Name:- signUp.html 
+Linked CSS:- style.css 
+
+//////////////////////////////////////////////////
+
+***** Login Submit Page Done *****
+
+Folder Name:- Login_submit.html 
+Linked CSS:- sytle.css 
+
+/////////////////////////////////////////////////
+
+***** Signup Submit Page Done *****
+
+Folder Name:- signup_submit.html
+Linked CSS:- style.css
+
+/////////////////////////////////////////////////
+
+***** Forgot Password Page Done *****
+
+Folder Name:- forgotPassword.html
+Linked CSS:- style.css 
